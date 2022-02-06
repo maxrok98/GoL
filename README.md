@@ -16,6 +16,6 @@ for(int i = 0; i < HEIGHT; i++){
 }
 ```
 #### Life can be lived on bounded space.
-![Life can be lived on bounded space.](https://github.com/maxrok98/bounded.gif)
+![Life can be lived on bounded space.](https://github.com/maxrok98/GoL/blob/master/bounded.gif)
 #### Life can be lived on toroidal space.
-![Life can be lived on toroidal space.](https://github.com/maxrok98/toroidal.gif)
+![Life can be lived on toroidal space.](https://github.com/maxrok98/GoL/blob/master/toroidal.gif)
