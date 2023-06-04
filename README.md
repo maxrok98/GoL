@@ -1,6 +1,6 @@
 # Game of life
 #### I was bored, that is why you can see yet another terminal based [Game of life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life).
-Basicaly whole complexity emerges from simple rules, which you can see on the following code.
+Basically whole complexity emerges from simple rules, which you can see on the following code.
 ``` c
 for(int i = 0; i < HEIGHT; i++){
 	for(int j = 0; j < WIDTH; j++){
